@@ -1,5 +1,10 @@
 ## Olá eu sou o Andrey Araujo!
 
+- Estou me aprofudando em BackEnd;
+- Estou estudando Java, SpringBoot, DataBases, Microservices, entre outos.
+
+##
+
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=andreyarau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyarau&hide_progress=true&theme=dark"/>
