@@ -1,4 +1,4 @@
-## Olá eu sou o Andrey Araujo!
+## Olá sou o Andrey Araujo!
 
 - Estou me aprofudando em BackEnd;
 - Estou estudando Java, SpringBoot, DataBases, Microservices, entre outos.
