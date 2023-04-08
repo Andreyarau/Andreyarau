@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá eu sou o Andrey Araujo!
 
-<!--
-**Andreyarau/Andreyarau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=andreyarau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyarau&hide_progress=true&theme=dark"/>
+</div>
+  
+  ##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img width="50em" alt="java" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img width="40em alt="spring" heigth="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg"/>        
+</div>
+ 
+ ##
+ 
+<div> 
+  <a href="https://instagram.com/andreygued" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andreyaraujo973@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andreyarau" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
